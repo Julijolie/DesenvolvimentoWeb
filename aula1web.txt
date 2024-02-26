@@ -1,7 +1,10 @@
+Desenvolvimento WEB - 2024.1
+Juliana de Oliveira - 5° período
+
 1-  https://www.python.org/downloads/
     https://code.visualstudio.com/download
     https://git-scm.com/downloads
 
-2-  python é uma linguagem de programação de alto nível, a qual permite a criação de sites junto à biblioteca Django.
-    VsCode é o editor de codigo fonte usado
-    Git  é um sistema de controle de versões distribuído, usado principalmente no desenvolvimento de software, mas pode ser usado para registrar o histórico de edições de qualquer tipo de arquivo
+2-  Python é uma linguagem de programação de alto nível, a qual permite a criação de sites junto à biblioteca Django.
+    VsCode é o editor de codigo fonte usado.
+    Git  é um sistema de controle de versões distribuído, usado principalmente no desenvolvimento de software, mas pode ser usado para registrar o histórico de edições de qualquer tipo de arquivo.
